@@ -74,4 +74,4 @@
 - [ ] Reverse Bits
 - [ ] Pascal's Triangle
 - [ ] Valid Parentheses
-- [ ] Missing Number
+- [x] Missing Number
