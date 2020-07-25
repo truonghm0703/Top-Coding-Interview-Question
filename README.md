@@ -9,8 +9,8 @@
 - [ ] Single Number
 - [ ] Intersection of Two Arrays II
 - [ ] Plus One
-- [ ] Move Zeroes
-- [ ] Two Sum
+- [x] Move Zeroes
+- [x] Two Sum
 - [ ] Valid Sudoku
 - [ ] Rotate Image
 
