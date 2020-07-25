@@ -6,7 +6,7 @@
 - [ ] Best Time to Buy and Sell Stock II
 - [ ] Rotate Array
 - [ ] Contains Duplicate
-- [ ] Single Number
+- [x] Single Number
 - [ ] Intersection of Two Arrays II
 - [ ] Plus One
 - [x] Move Zeroes
